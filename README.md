@@ -8,7 +8,7 @@
 **Database**: `library_db`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
-https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT/edit/main/R
+
 ![Library_project](https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT/blob/main/library.jpg)
 
 ## Objectives
