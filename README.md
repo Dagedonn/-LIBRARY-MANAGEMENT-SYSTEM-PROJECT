@@ -1,5 +1,5 @@
 # -LIBRARY-MANAGEMENT-SYSTEM-PROJECT
-# Library Management System using SQL( Project 2)
+# using SQL
 
 ## Project Overview
 
