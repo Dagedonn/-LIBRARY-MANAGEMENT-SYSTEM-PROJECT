@@ -1,5 +1,5 @@
 # -LIBRARY-MANAGEMENT-SYSTEM-PROJECT
-# using SQL
+
 
 ## Project Overview
 
